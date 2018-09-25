@@ -1,2 +1,3 @@
 # hello-world
-First repository
+
+This document is just here to help me understand github.
